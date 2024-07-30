@@ -1,0 +1,12 @@
+body{
+    background: #000;
+}
+.big-title {
+  font-size: 10rem;
+  color: yellow;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.margin-50 {
+  margin: 50px;
+}
