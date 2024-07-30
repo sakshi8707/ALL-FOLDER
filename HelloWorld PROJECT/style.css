@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: system-ui;
+}
+
+.outer {
+  background-color: #074f57;
+  background-image: url("landscape-small.jpg");
+  color: white;
+
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+.first {
+  .bg-img {
+    background-image: url(https://images.unsplash.com/photo-1617478755490-e21232a5eeaf?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYxNzU1NjM5NA&ixlib=rb-1.2.1&q=75&w=1920);
+  }
+}
